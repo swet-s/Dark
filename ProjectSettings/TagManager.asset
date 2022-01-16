@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectibles
+  - Weapon
+  - Enemy
+  - Bullet
+  - Plank
+  - Base
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Bullet
+  - EnemyCollider
+  - FireBall
+  - Invincible
+  - Wall
+  - PlayerCheck
+  - StarCheck
+  - Star
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2375610393
+    locked: 0
+  - name: Background_alpha
+    uniqueID: 4103164303
+    locked: 0
+  - name: Midground_beta
+    uniqueID: 3110432909
+    locked: 0
+  - name: Midground_alpha
+    uniqueID: 504331437
+    locked: 0
+  - name: Forground
+    uniqueID: 1093714093
+    locked: 0
+  - name: Tools
+    uniqueID: 3620201535
+    locked: 0
+  - name: Cover
+    uniqueID: 3019027573
+    locked: 0
+  - name: CoverAlpha
+    uniqueID: 1547514817
+    locked: 0
